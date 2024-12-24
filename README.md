@@ -30,10 +30,10 @@ The Blood Donation Management System using Machine Learning project is an ambiti
 ### View Donor Screen
 ![View Donor Screen](screenshots/5.ViewDonor.png)
 
-### Updation of Token Screen
+### Updation of Token Screen 
 ![Updation of Token Screen](screenshots/6.UpdationStatus.png)
 
-## Detailed Description
+## Description
 
 ### Machine Learning Component
 The system's machine learning component is designed to predict whether an individual is eligible to donate blood based on key health metrics. The primary features used for this prediction are:
@@ -41,4 +41,4 @@ The system's machine learning component is designed to predict whether an indivi
 - Body Mass Index (BMI): A value derived from the mass (weight) and height of an individual.
 These features are fed into a linear regression algorithm, which has been trained to make accurate predictions regarding blood donation eligibility.
 
-Thank you for your interest in the Blood Donation Management System using Machine Learning
+Thank you for your interest in the Blood Donation Management System using Machine Learning !!
